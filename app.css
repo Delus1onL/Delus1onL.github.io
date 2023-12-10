@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Splatfont2';
+    src: url('img/font/Splatfont2-Regular.eot?CsDRVrN04_qsP-ZvtuDtbw') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+h1 {
+    color : #00ff00;
+    font-size: 40px;
+    font-family: Splatfont2;
+}
+
+body {
+    background-color : #ffffff;
+}
+
+button {
+    background-color : green;
+}
